@@ -85,7 +85,7 @@
     <pre><code>pip install qrcode[pil] Pillow</code></pre>
     <li>▶️ Run the application:</li>
     <pre><code>python qr_code_generator.py</code></pre>
-    <li>🎉 The app will open, and you can start generating QR codes.</li>
+    <li>🎉 It will open, and you can start generating QR codes.</li>
 </ol>
 
 <h2>📄 Usage</h2>
