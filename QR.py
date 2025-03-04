@@ -114,4 +114,4 @@ Label(
     font=("Arial", 12, "italic")
 ).place(x=590, y=690, anchor="se")  # Positioned below the previous footer
 
-root.mainloop()
+root.mainloop()    # Code Ends Here 
